@@ -23,7 +23,7 @@ poi-excelant
 	
 You goal is to move the red dot(player object) to the finish flag, you can move the player object with arrows or with the mouse if you left click on the player object. Throughout the maze, you will come across obstacles and a black hole. Good luck!
 
-## Key Images
+## Key images
 
 This is format you want to see in the eclipse package explorer
 ![alt text](eclipseSnippet.png)
