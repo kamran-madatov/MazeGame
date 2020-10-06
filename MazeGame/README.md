@@ -1,1 +1,24 @@
-# MazeGame
+# Maze Game
+
+Maze game is a game developed by AWT Java GUI API
+
+## Instructions to run
+
+1. Import the project files into Java Eclipse
+Edit the JRE library properties, you'd want to choose JAVASE-11
+2. Make sure to add these jar files from the lib poi-3.12 folder to the build path
+poi-3.12
+poi-ooxml
+xmlbeans
+poi-xml-schemas
+poi-excelant
+
+3. Run MazeGame.java as Java Application
+
+This is format you want to see in the eclipse package explorer
+![alt text](eclipseSnippet.png)
+
+
+
+## Contributing
+Kamran Madatov
