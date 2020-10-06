@@ -26,7 +26,7 @@ You goal is to move the red dot(player object) to the finish flag, you can move 
 ## Key images
 
 This is format you want to see in the eclipse package explorer
-![alt text](\MazeGame\MazeGame\eclipseSnippet.png)
+![alt text](MazeGame/blob/master/MazeGame/UML.png?raw=true)
 
 UML Diagram
 ![alt text](MazeGame\UML.png)
