@@ -26,16 +26,16 @@ You goal is to move the red dot(player object) to the finish flag, you can move 
 ## Key images
 
 This is format you want to see in the eclipse package explorer
-![alt text](https://github.com/kamran-madatov/MazeGame/blob/master/MazeGame/UML.png?raw=true)
+![alt text](https://github.com/kamran-madatov/MazeGame/blob/master/MazeGame/eclipseSnippet.png?raw=true)
 
 UML Diagram
-![alt text](MazeGame\UML.png)
+![alt text](https://github.com/kamran-madatov/MazeGame/blob/master/MazeGame/UML.png?raw=true)
 
 Front Panel
-![alt text](MazeGame\frontPanel.png)
+![alt text](https://github.com/kamran-madatov/MazeGame/blob/master/MazeGame/frontPanel.png?raw=true)
 
 Game Panel
-![alt text](MazeGame\gamePanel.png)
+![alt text](https://github.com/kamran-madatov/MazeGame/blob/master/MazeGame/gamePanel.png?raw=true)
 
 ## Contributing
 Kamran Madatov
