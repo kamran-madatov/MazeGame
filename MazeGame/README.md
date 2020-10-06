@@ -20,7 +20,8 @@ poi-excelant
 
 
 ## How to play
-	You goal is to move the red dot(player object) to the finish flag, you can move the player object with arrows or with the mouse if you left click on the player object. Throughout the maze, you will come across obstacles and a black hole. Good luck!
+	
+You goal is to move the red dot(player object) to the finish flag, you can move the player object with arrows or with the mouse if you left click on the player object. Throughout the maze, you will come across obstacles and a black hole. Good luck!
 
 ## Key Images
 
